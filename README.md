@@ -1,23 +1,24 @@
-## Hi I'm Daehee Cho👋
+# Hi I'm Daehee Cho👋
 
 
 
-- 🔭 I’m currently working on N/A
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ANYTHING
-- 📫 How to reach me: Direct Message(Any Social Media)
-- 😄 Pronouns: Lover of Black
+- #### 💼 I’m currently working on ...
+- #### 💻 I’m currently learning Python 
+- #### 🫂 I’m looking to collaborate on ...
+- #### 🤔 I’m looking for help with ...
+- #### 💬 Ask me about ANYTHING
+  
+- #### 📫 How to reach me: Direct Message
+- #### 🌚 Pronouns: Lover of Black
 
 
 
-### A little more about me...  
+## A little more about me...  
 
 ```javascript
 const DH = {
   pronouns: "him" | "his",
-  code: [HTML, CSS, Javascript, Typescript, Ruby, Python]
+  code: [HTML, CSS, Javascript, Typescript, Flutter, Python]
 
  challenge: "I am doing the #100DaysOfCode challenge focused on python"
 }
