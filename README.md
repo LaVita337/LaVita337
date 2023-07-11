@@ -7,8 +7,6 @@
 - #### 🫂 I’m looking to collaborate on ...
 - #### 🤔 I’m looking for help with ...
 - #### 💬 Ask me about ANYTHING
-  
-- #### 📫 How to reach me: Direct Message
 - #### 🌚 Pronouns: Lover of Black
 
 
