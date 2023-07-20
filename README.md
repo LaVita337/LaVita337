@@ -16,7 +16,7 @@
 ```javascript
 const DH = {
   pronouns: "him" | "his",
-  code: [HTML, CSS, Javascript, Typescript, Flutter, Python]
+  skills: [HTML, CSS, Javascript, Typescript, Dart, Flutter, Python]
 
  challenge: "I am doing the #100DaysOfCode challenge focused on python"
 }
