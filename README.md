@@ -16,7 +16,7 @@
 ```javascript
 const DH = {
   pronouns: "him" | "his",
-  skills: [Dart, Flutter, Python, HTML, CSS, Javascript, Typescript]
+  skills: [Dart, Flutter, Python, HTML, CSS, Javascript]
 }
 ```
 
