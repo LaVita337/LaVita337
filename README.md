@@ -1,4 +1,4 @@
-# Hi I'm Daehee Cho🇰🇷🇨🇳🇺🇸👋
+# Hi I'm Daehee Cho👋
 
 
 - #### 💻 현재 Flutter 앱 개발에 몰두하고 있습니다! I'm currently immersed in developing Flutter apps!
