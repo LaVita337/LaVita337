@@ -2,10 +2,10 @@
 
 <br>
 
-- #### 💻 I'm currently immersed in developing Flutter apps!
-- #### 🫂 Looking for partners to collaborate on Flutter projects!
-- #### 🤔 Seeking advice on challenges related to Flutter development.
-- #### 💬 Ask me anything about Flutter, mobile app development, or anything else.
+#### 💻 I'm currently immersed in developing Flutter apps!
+#### 🫂 Looking for partners to collaborate on Flutter projects!
+#### 🤔 Seeking advice on challenges related to Flutter development.
+#### 💬 Ask me anything about Flutter, mobile app development, or anything else.
 
 <br>
 
