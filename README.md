@@ -1,6 +1,5 @@
 # Hi I'm Daehee Cho 👋
 
-<br>
 
 ### 💻 I'm currently immersed in developing Flutter apps!
 ### 🙋‍♂️ Looking for partners to collaborate on Flutter projects!
