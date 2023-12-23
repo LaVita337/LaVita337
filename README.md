@@ -1,4 +1,4 @@
-# Hi I'm Daehee Cho 👋
+# Hiii! 👋
 
 
 ### 💻 I'm currently immersed in developing Flutter apps!
