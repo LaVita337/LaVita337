@@ -14,6 +14,7 @@
 
 ```dart
 class DH {
+  final List<String> pronouns = ["he", "him"];
   final List<String> skills = ["Dart", "Flutter", "Python", "HTML", "CSS", "Javascript"];
   final String currentFocus = "Mastering Flutter for Full-Stack App Development";
 }
